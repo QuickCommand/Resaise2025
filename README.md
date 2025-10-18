@@ -127,3 +127,43 @@ Resaise2025/
    ├─ latency_summary.json         # mirrors paper’s table
    └─ system_info_local.json       # produced by dump_system_info.py
 
+## 9) Models Evaluated
+
+
+| Model              | Status | Notes                                                                                            |
+| ------------------ | ------ | ------------------------------------------------------------------------------------------------ |
+| **Quantized-BERT** | Ready  | Meets **< 50 ms** E2E (CPU-only) and **100% accuracy** (paper); best latency/accuracy trade-off. |
+| MobileBERT         | Soon   | High accuracy; CPU inference ~231 ms median.                                                     |
+| DistilBERT         | Soon   | High accuracy; CPU inference ~225 ms median.                                                     |
+| TinyBERT           | Soon   | High accuracy; CPU inference >200 ms median.                                                     |
+| ALBERT             | Soon   | High accuracy; CPU inference ~239 ms median.                                                     |
+| ELECTRA-Small      | Soon   | Faster but failed accuracy threshold (0%).                                                       |
+| Regex baseline     | N/A    | Rule-based reference; meets latency but limited generality.                                      |
+
+
+## 10) Reproducibility & Experimental Environments
+| Platform          | Purpose                                | CPU                      | GPU                           | Python | Notes                                              |
+| ----------------- | -------------------------------------- | ------------------------ | ----------------------------- | ------ | -------------------------------------------------- |
+| **HPC Node**      | Training & baseline evaluation         | AMD EPYC 9634 (96 cores) | NVIDIA L40S *(training only)* | 3.10   | Paper reports **CPU-only** inference timings.      |
+| **Local Machine** | On-device verification & Pixhawk tests | *your CPU model*         | —                             | 3.10   | Pixhawk 2.4.8 via MAVLink 2.0 (915 MHz telemetry). |
+
+**Software Stack**
+
+| Component                 | Version |
+| ------------------------- | ------- |
+| Ubuntu                    | 22.04   |
+| PyTorch                   | 2.0     |
+| Hugging Face Transformers | 4.42.0  |
+| NumPy                     | 1.26    |
+| pymavlink                 | 3.x     |
+
+**Local Run Directories (examples)**
+
+* drone_qbert_local
+* drone_mobilebert_local
+* drone_distilbert_local
+* drone_tinybert_local
+* drone_albert_local
+* drone_electra-small_local
+
+
