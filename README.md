@@ -2,9 +2,9 @@
 
 <!-- Hero strip -->
 <p align="center">
-  <img src="assets/quadcopter_icon.png"             alt="QuickCommand drone icon (filled)"       width="88">
+  <img src="assets/quadcopter_icon.png"             alt="QuickCommand drone icon (filled)"       width="400">
   &nbsp;&nbsp;
-  <img src="assets/map.png"                         alt="Tokyo map"                               width="200">
+  <img src="assets/map.png"                         alt="Tokyo map"                               width="400">
 </p>
 
 <p align="center"><em>Map shows Tokyo — this work kicked off during our trip to ISCA 2025.</em></p>
