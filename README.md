@@ -187,7 +187,10 @@ python scripts/test_pipeline.py
 # Step 4 — optional: capture system info for reviewers
 python scripts/dump_system_info.py > reports/system_info_local.json
 
+~~~
 ---
+
+
 ## 12) Key Findings
 
 - **Real-time performance:** QuickCommand achieves a **median 19 ms** end-to-end latency on CPU, staying well below the **50 ms** safety threshold required for telepresence control loops.  
