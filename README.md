@@ -1,17 +1,25 @@
 # QuickCommand (ReSAISE 2025)
-*A low-latency, CPU-only NLP→MAVLink pipeline for reliable UAV telepresence.*
 
-This repository provides artifacts for **“QuickCommand: A Low-Latency NLP Pipeline for Reliable UAV Telepresence.”**  
-Goal: **< 50 ms** end-to-end (E2E) command execution to **Pixhawk** with **offline/on-device** inference and built-in safety.
+A low-latency, **CPU-only** NLP → MAVLink pipeline for reliable UAV telepresence. QuickCommand maps natural-language flight commands to Pixhawk control with a strict end-to-end latency target of **< 50 ms**, including NLP inference, MAVLink dispatch, and flight-controller actuation.
 
 ---
 
-## ✨ Highlights
-- **CPU-only** compact-transformer intent classification.
-- **E2E latency target < 50 ms** (NLP + MAVLink + Pixhawk actuation).
-- **Confidence gate + fail-safe hover/hold** for uncertain predictions.
-- **7 core intents:** `move`, `altitude`, `rotate`, `hover`, `takeoff`, `land`, `emergency_stop`.
+## Overview
+
+- **Objective:** Natural-language teleoperation of UAVs with real-time safety guarantees.
+- **Approach:** Compact transformer intent classification → parameter extraction → MAVLink translation → Pixhawk dispatch.
+- **Safety:** Confidence gating with automatic **hover/hold** fallback for uncertain predictions.
 
 ---
 
-## 🗂 Repository Layout
+## Features
+
+- Seven intents: `move`, `altitude`, `rotate`, `hover`, `takeoff`, `land`, `emergency_stop`
+- On-device, offline execution (no cloud dependency)
+- GUI hooks for live latency monitoring
+- Reproducible dataset generation and evaluation scripts
+
+---
+
+## Repository Structure
+
