@@ -95,6 +95,7 @@ Median (and 95th) latencies in milliseconds:
 - CPU-only inference reported; dispatch and actuation measured in the loop.
 
 ---
+~~~text
 
 ## 8) Repository Structure 
 ReSAISE2025/
@@ -125,6 +126,8 @@ ReSAISE2025/
    ├─ latency_summary.json         # mirrors paper's table
    └─ system_info_local.json       # produced by dump_system_info.py
 
+...
+~~~
 ---
 
 ## 9) Models Evaluated
