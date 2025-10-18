@@ -248,22 +248,22 @@ Released under the **MIT License**. See the [LICENSE](./LICENSE) file for detail
 <p align="center">
   <img src="assets/logos/RSCL_2025.jpeg" alt="RSCL Lab" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150">
+  <img src="assets/logos/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/UIUC-Logo.png" alt="UIUC" width="150">
+  <img src="assets/logos/UIUC-Logo.png" alt="UIUC" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
+  <img src="assets/logos/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/DOW_logo.jpeg" alt="U.S. Navy NEEC" width="160">
+  <img src="assets/logos/DOW_logo.jpeg" alt="U.S. Navy NEEC" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/AFRL_logo.jpeg" alt="AFRL" width="160">
+  <img src="assets/logos/AFRL_logo.jpeg" alt="AFRL" width="140">
 </p>
 
 This work was supported by:
 - **U.S. Navy: Naval Engineering Education Consortium (NEEC)** — Grant **N001742310002**  
 - **Office of Naval Research (ONR)** — Summer Faculty Research Program (SFRP)  
 - **Air Force Research Laboratory (AFRL)** — Agreement **FA8650-24-2-2403**
-- **U.S. Department of Defense (DoD)** — HPC resources under award **W911NF-24-1-0265**
+- **U.S. Department of War (DoW)** — HPC resources under award **W911NF-24-1-0265**
 
 
 > The views and conclusions contained herein are those of the authors and do not necessarily reflect the official policies or endorsements of the U.S. Government.
