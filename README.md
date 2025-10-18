@@ -2,10 +2,10 @@
 
 <!-- Promo strip -->
 <p align="center">
-  <img src="assets/quadcopter_icon_clean.png" alt="QuickCommand quadcopter (clean)" width="110">
-  <img src="assets/quadcopter_icon_transparent.png" alt="QuickCommand quadcopter (transparent)" width="110">
-  <img src="assets/map.png" alt="QuickCommand map" width="140">
-  <img src="assets/quadcopter_icon.png" alt="QuickCommand quadcopter (icon)" width="110">
+  <img src="assets/quadcopter_icon_clean.png" alt="QuickCommand quadcopter (clean)" width="300">
+  <img src="assets/quadcopter_icon_transparent.png" alt="QuickCommand quadcopter (transparent)" width="300">
+  <img src="assets/map.png" alt="QuickCommand map" width="300">
+  <img src="assets/quadcopter_icon.png" alt="QuickCommand quadcopter (icon)" width="300">
 </p>
 
 
