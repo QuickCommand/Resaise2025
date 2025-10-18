@@ -1,10 +1,13 @@
 # QuickCommand (ReSAISE 2025)
 
-<!-- Promo strip -->
+<!-- Hero strip -->
 <p align="center">
-  <img src="assets/map.png" alt="QuickCommand map" width="300">
-  <img src="assets/quadcopter_icon.png" alt="QuickCommand quadcopter (icon)" width="300">
+  <img src="assets/quadcopter_icon.png"             alt="QuickCommand drone icon (filled)"       width="88">
+  &nbsp;&nbsp;
+  <img src="assets/map.png"                         alt="Tokyo map"                               width="200">
 </p>
+
+<p align="center"><em>Map shows Tokyo — this work kicked off during our trip to ISCA 2025.</em></p>
 
 
 **QuickCommand** is a low-latency, **CPU-only** NLP → MAVLink pipeline for reliable UAV telepresence.  
