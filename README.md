@@ -94,7 +94,6 @@ Median (and 95th) latencies in milliseconds:
 - Latency measured at **(1) NLP**, **(2) translation**, and **(3) end-to-end**.  
 - CPU-only inference reported; dispatch and actuation measured in the loop.
 
----
 
 ## 8) Repository Structure
 
