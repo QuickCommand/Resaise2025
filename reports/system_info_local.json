@@ -1,0 +1,9 @@
+{
+  "python": "3.10.x",
+  "platform": "Ubuntu 22.04",
+  "cpu": "<your CPU model>",
+  "gpu": "N/A (CPU-only inference)",
+  "pytorch": "2.0",
+  "transformers": "4.42.0",
+  "notes": "Replace with scripts/dump_system_info.py output when available."
+}
