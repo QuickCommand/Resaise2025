@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "QuickCommand (ReSAISE 2025)"
+message: "If you use this software, please cite the paper below."
+authors:
+  - family-names: "El-Hadedy"
+    given-names: "Mohamed"
+    name-particle: ""
+    affiliation: "California State Polytechnic University, Pomona (CPP)"
+    email: "mealy@cpp.edu"
+  - family-names: "Hwu"
+    given-names: "Wen-Mei W."
+    affiliation: "University of Illinois Urbana-Champaign (UIUC)"
+  # add co-authors if needed
+preferred-citation:
+  type: proceeding
+  title: "QuickCommand: A Low-Latency NLP Pipeline for Reliable UAV Telepresence"
+  authors:
+    - family-names: "El-Hadedy"
+      given-names: "Mohamed"
+    - family-names: "Hwu"
+      given-names: "Wen-Mei W."
+  year: 2025
+  collection-title: "ReSAISE 2025"
+  url: "https://github.com/QuickCommand/Resaise2025"
