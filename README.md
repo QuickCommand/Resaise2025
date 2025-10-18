@@ -120,7 +120,7 @@ ReSAISE2025/
 │  └─ dump_system_info.py          # system info capture (ready)
 ├─ quickcommand/
 │  ├─ models/
-│  │  ├─ quantized_bert/           # (ready) best CPU-latency model from the paper
+│  │  ├─ quantized_bert/           # (soon) best CPU-latency model from the paper
 │  │  ├─ mobilebert/               # (soon)
 │  │  ├─ distilbert/               # (soon)
 │  │  ├─ tinybert/                 # (soon)
