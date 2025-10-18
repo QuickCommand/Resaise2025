@@ -116,6 +116,10 @@ Median (and 95th) latencies in milliseconds:
    
 ReSAISE2025/
 ├─ README.md
+├─ CHANGELOG.md
+├─ CITATION.cff
+├─ .gitignore
+├─ .gitattributes
 ├─ environment.yml
 ├─ LICENSE
 ├─ scripts/
