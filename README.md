@@ -1,5 +1,14 @@
 # QuickCommand (ReSAISE 2025)
 
+<!-- Promo strip -->
+<p align="center">
+  <img src="assets/quadcopter_icon_clean.png" alt="QuickCommand quadcopter (clean)" width="110">
+  <img src="assets/quadcopter_icon_transparent.png" alt="QuickCommand quadcopter (transparent)" width="110">
+  <img src="assets/map.png" alt="QuickCommand map" width="140">
+  <img src="assets/quadcopter_icon.png" alt="QuickCommand quadcopter (icon)" width="110">
+</p>
+
+
 **QuickCommand** is a low-latency, **CPU-only** NLP → MAVLink pipeline for reliable UAV telepresence.  
 It maps natural-language commands (e.g., *“move right three meters”*, *“rotate left 90 degrees”*, *“emergency stop”*) to Pixhawk control under a strict **< 50 ms** end-to-end (E2E) latency budget, with a **confidence gate** and **hover/hold** safety fallback.
 
