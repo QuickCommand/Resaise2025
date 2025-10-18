@@ -225,15 +225,15 @@ Released under the **MIT License**. See the [LICENSE](./LICENSE) file for detail
 ## 16) Acknowledgments
 
 <p align="center">
-  <img src="assets/logo/RSCL_2025.jpeg" alt="RSCL Lab" width="140">
+  <img src="assets/logos/RSCL_2025.jpeg" alt="RSCL Lab" width="140">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logo/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150">
+  <img src="assets/logos/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logo/UIUC-Logo.png" alt="UIUC" width="150">
+  <img src="assets/logos/UIUC-Logo.png" alt="UIUC" width="150">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logo/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
+  <img src="assets/logos/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logo/AFRL_logo.jpeg" alt="AFRL" width="160">
+  <img src="assets/logos/AFRL_logo.jpeg" alt="AFRL" width="160">
 </p>
 
 This work was supported by:
