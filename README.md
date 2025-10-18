@@ -98,8 +98,8 @@ Median (and 95th) latencies in milliseconds:
 
 ## 8) Repository Structure 
 
-~~~text
-
+<details><summary><b>Click to expand</b></summary>
+   
 ReSAISE2025/
 ├─ README.md
 ├─ environment.yml
@@ -128,7 +128,7 @@ ReSAISE2025/
    ├─ latency_summary.json         # mirrors paper's table
    └─ system_info_local.json       # produced by dump_system_info.py
 
-~~~
+</details>
 ---
 
 ## 9) Models Evaluated
