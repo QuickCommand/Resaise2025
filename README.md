@@ -95,9 +95,11 @@ Median (and 95th) latencies in milliseconds:
 - CPU-only inference reported; dispatch and actuation measured in the loop.
 
 ---
-~~~text
 
 ## 8) Repository Structure 
+
+~~~text
+
 ReSAISE2025/
 ├─ README.md
 ├─ environment.yml
