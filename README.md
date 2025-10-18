@@ -206,3 +206,8 @@ If you use or reference **QuickCommand**, please cite:
   year      = {2025}
 }
 ```
+---
+## 14) License
+
+Released under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
