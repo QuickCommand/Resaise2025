@@ -254,13 +254,17 @@ Released under the **MIT License**. See the [LICENSE](./LICENSE) file for detail
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/DOW_logo.jpeg" alt="U.S. Navy NEEC" width="160">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/AFRL_logo.jpeg" alt="AFRL" width="160">
 </p>
 
 This work was supported by:
-- **U.S. Navy Naval Engineering Education Consortium (NEEC)** — Grant **N001742310002**  
+- **U.S. Navy: Naval Engineering Education Consortium (NEEC)** — Grant **N001742310002**  
 - **Office of Naval Research (ONR)** — Summer Faculty Research Program (SFRP)  
 - **Air Force Research Laboratory (AFRL)** — Agreement **FA8650-24-2-2403**
+- **U.S. Department of Defense (DoD)** — HPC resources under award **W911NF-24-1-0265**
+
 
 > The views and conclusions contained herein are those of the authors and do not necessarily reflect the official policies or endorsements of the U.S. Government.
 
