@@ -170,20 +170,16 @@ ReSAISE2025/
 * drone_electra-small_local
 ---
 
-### B) No-fence version (zero chance of fence issues)
-If you want to avoid code blocks altogether, use this instead:
-
-```markdown
 ## 11) Reproduce in 5 Minutes
 
 1. Create & activate env: `conda env create -f environment.yml && conda activate quickcommand`  
-2. Generate dataset (700 samples):  
-   `python scripts/generate_dataset.py --out data/dataset.jsonl --per-class 100 --noise 0.15`  
+2. Generate dataset (700 samples): `python scripts/generate_dataset.py --out data/dataset.jsonl --per-class 100 --noise 0.15`  
    *(tiny smoke test)* `python scripts/generate_dataset.py --out data/dataset_small.jsonl --per-class 10 --noise 0`  
 3. Run mock E2E latency demo: `python scripts/test_pipeline.py`  
 4. (Optional) Capture system info: `python scripts/dump_system_info.py > reports/system_info_local.json`  
 
-**Expected:** input line, decoded intent, and a mock E2E latency around **33 ms**.
+**Expected output (demo):**  
+`input: take off now` · `intent: takeoff` · `mock E2E latency: ~33 ms`
 
 ---
 
