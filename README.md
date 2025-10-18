@@ -261,7 +261,7 @@ Released under the **MIT License**. See the [LICENSE](./LICENSE) file for detail
 
 This work was supported by:
 - **U.S. Navy: Naval Engineering Education Consortium (NEEC)** — Grant **N001742310002**  
-- **Office of Naval Research (ONR)** — Summer Faculty Research Program (SFRP)  
+- **Office of Naval Research (ONR)** — Summer Faculty Research Program (**SFRP**)  
 - **Air Force Research Laboratory (AFRL)** — Agreement **FA8650-24-2-2403**
 - **U.S. Department of War (DoW)** — HPC resources under award **W911NF-24-1-0265**
 
