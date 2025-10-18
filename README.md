@@ -194,4 +194,17 @@ ReSAISE2025/
 - **Reproducibility:** Includes a 7-class, 7 000-sample dataset generator (**80/10/10** split) and scripts to regenerate experiments and latency tables exactly as reported in the paper.
 ---
 
+## 13) Citation
+
+If you use or reference **QuickCommand**, please cite:
+
+```bibtex
+@inproceedings{ElHadedy2025QuickCommand,
+  title     = {QuickCommand: A Low-Latency NLP Pipeline for Reliable UAV Telepresence},
+  author    = {Mohamed El-Hadedy and Wen-Mei W. Hwu},
+  booktitle = {ReSAISE 2025 Workshop on Reliable and Secure AI for Software Engineering},
+  year      = {2025}
+}
+---
+
 
