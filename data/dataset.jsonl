@@ -1,0 +1,7 @@
+{"text":"move right three meters","label":"move"}
+{"text":"go up two meters","label":"altitude"}
+{"text":"rotate left ninety degrees","label":"rotate"}
+{"text":"hover here for five seconds","label":"hover"}
+{"text":"take off now","label":"takeoff"}
+{"text":"land gently","label":"land"}
+{"text":"abort mission immediately","label":"emergency_stop"}
