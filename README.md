@@ -170,12 +170,12 @@ drone_electra-small_local
 
 ## 11) Reproduce in 5 Minutes
 
-Follow these steps to replicate the pipeline or verify the latency results on your own system.
-
 ### Step 1 – Create and activate the environment
 ```bash
 conda env create -f environment.yml
 conda activate quickcommand
+
+
 
 ## 12) Key Findings
 
