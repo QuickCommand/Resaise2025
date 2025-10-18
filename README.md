@@ -169,4 +169,23 @@ ReSAISE2025/
 * drone_albert_local
 * drone_electra-small_local
 ---
+## 11) Reproduce in 5 Minutes
+
+**Commands**
+```bash
+# Step 1 — create & activate environment
+conda env create -f environment.yml
+conda activate quickcommand
+
+# Step 2 — generate dataset (700 samples total)
+python scripts/generate_dataset.py --out data/dataset.jsonl --per-class 100 --noise 0.15
+# (tiny smoke test) python scripts/generate_dataset.py --out data/dataset_small.jsonl --per-class 10 --noise 0
+
+# Step 3 — run mock end-to-end latency demo
+python scripts/test_pipeline.py
+
+# Step 4 — optional: capture system info for reviewers
+python scripts/dump_system_info.py > reports/system_info_local.json
+---
+
 
