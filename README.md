@@ -222,3 +222,8 @@ Released under the **MIT License**. See the [LICENSE](./LICENSE) file for detail
 
 ---
 
+|                                                                  |                                                                                   |                                                              |                                                                                |                                                               |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| <img src="assets/logo/rscl_logo.png" alt="RSCL Lab" width="140"> | <img src="assets/logo/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150"> | <img src="assets/logo/UIUC-Logo.png" alt="UIUC" width="150"> | <img src="assets/logo/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160"> | <img src="assets/logo/AFRL_logo.jpeg" alt="AFRL" width="160"> |
+| **RSCL Lab**                                                     | **Cal Poly Pomona**                                                               | **UIUC**                                                     | **U.S. Navy NEEC**                                                             | **AFRL**                                                      |
+
