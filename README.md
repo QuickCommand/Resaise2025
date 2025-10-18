@@ -269,3 +269,6 @@ This work was supported by:
 > The views and conclusions contained herein are those of the authors and do not necessarily reflect the official policies or endorsements of the U.S. Government.
 
 ---
+**HPC resources:** Computational resources for training/evaluation were provided in part by DoD-funded systems under award **W911NF-24-1-0265**.
+
+---
