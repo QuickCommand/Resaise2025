@@ -96,6 +96,36 @@ Median (and 95th) latencies in milliseconds:
 
 ---
 
+## 8) Repository Structure 
+ReSAISE2025/
+├─ README.md
+├─ environment.yml
+├─ LICENSE
+├─ scripts/
+│  ├─ generate_dataset.py          # dataset generator (ready)
+│  ├─ test_pipeline.py             # mock E2E latency demo (ready)
+│  └─ dump_system_info.py          # system info capture (ready)
+├─ quickcommand/
+│  ├─ models/
+│  │  ├─ quantized_bert/           # (ready) best CPU-latency model from the paper
+│  │  ├─ mobilebert/               # (soon)
+│  │  ├─ distilbert/               # (soon)
+│  │  ├─ tinybert/                 # (soon)
+│  │  ├─ albert/                   # (soon)
+│  │  └─ electra_small/            # (soon)
+│  ├─ nlp/
+│  │  └─ preprocessor.py           # (ready) normalization + parameter parsing
+│  ├─ mavlink/
+│  │  └─ translator.py             # (ready) intent -> MAVLink messages
+│  └─ gui/                         # (soon) live latency monitor
+├─ data/
+│  ├─ dataset.jsonl                # created by scripts/generate_dataset.py
+│  └─ samples/                     # (soon) small example snippets
+└─ reports/
+   ├─ latency_summary.json         # mirrors paper's table
+   └─ system_info_local.json       # produced by dump_system_info.py
+
+---
 
 ## 9) Models Evaluated
 
