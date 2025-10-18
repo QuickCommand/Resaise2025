@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env / IDE
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Outputs
+runs/
+reports/*.tmp
+data/*.tmp
+
+# Models / large
+*.pt
+*.bin
+*.onnx
+*.tflite
