@@ -211,19 +211,24 @@ Department of Electrical and Computer Engineering
 California State Polytechnic University, Pomona (CPP)  
 mealy@cpp.edu
 
-
 ## 16) Acknowledgments
 
-<p>
-  <img src="https://img.shields.io/badge/U.S.%20Navy%20NEEC-N001742310002-0a3d62?style=for-the-badge" alt="NEEC N001742310002" />
-  <img src="https://img.shields.io/badge/ONR-Summer%20Faculty%20Research%20Program-1e90ff?style=for-the-badge" alt="ONR SFRP" />
-  <img src="https://img.shields.io/badge/AFRL-FA8650--24--2--2403-2d3436?style=for-the-badge" alt="AFRL FA8650-24-2-2403" />
+<p align="center">
+  <img src="assets/logo/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/AFRL_logo.jpeg" alt="Air Force Research Laboratory (AFRL)" width="160">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/UIUC-Logo.png" alt="University of Illinois Urbana-Champaign" width="150">
 </p>
 
-**This work was supported by:**
+This work was supported by:
+
 - **U.S. Navy Naval Engineering Education Consortium (NEEC)** — Grant **N001742310002**  
 - **Office of Naval Research (ONR)** — Summer Faculty Research Program (SFRP)  
 - **Air Force Research Laboratory (AFRL)** — Agreement **FA8650-24-2-2403**
 
-> The views and conclusions contained herein are those of the authors and do not necessarily reflect the official policies or endorsements of the U.S. Government.
+Their continued support has been crucial in advancing real-time NLP-driven UAV telepresence and embedded autonomy.
 
+> *The views and conclusions contained herein are those of the authors and do not necessarily reflect the official policies or endorsements of the U.S. Government.*
