@@ -22,7 +22,8 @@ It maps natural-language commands (e.g., *“move right three meters”*, *“ro
 - **Safety:** Low-confidence predictions automatically trigger **hover/hold**.
 
 ---
-
+> **Provenance.** This repository was created post-submission to consolidate artifacts (code, data, and reports). Experimental runs were executed earlier on our HPC and local machines; selected summaries are included under `reports/` for transparency.
+---
 **Artifacts:** [Dataset](./data/dataset.jsonl) · [Latency summary](./reports/latency_summary.json) · [System info](./reports/system_info_local.json)
 ---
 
