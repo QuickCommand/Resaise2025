@@ -127,7 +127,7 @@ ReSAISE2025/
 └─ reports/
    ├─ latency_summary.json         # mirrors paper's table
    └─ system_info_local.json       # produced by dump_system_info.py
-
+~~~ 
 ---
 
 ## 9) Models Evaluated
