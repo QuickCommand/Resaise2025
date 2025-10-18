@@ -213,25 +213,17 @@ mealy@cpp.edu
 
 ## 16) Acknowledgments
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="assets/logo/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
-    </td>
-    <td align="center" valign="middle">
-      <img src="assets/logo/AFRL_logo.jpeg" alt="Air Force Research Laboratory (AFRL)" width="160">
-    </td>
-    <td align="center" valign="middle">
-      <img src="assets/logo/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150">
-    </td>
-    <td align="center" valign="middle">
-      <img src="assets/logo/UIUC-Logo.png" alt="University of Illinois Urbana-Champaign" width="150">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/logo/US%20NAVY%20LOGO.jpeg" alt="U.S. Navy NEEC" width="160">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/AFRL_logo.jpeg" alt="Air Force Research Laboratory (AFRL)" width="160">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/calpoly_pomona_logo.png" alt="Cal Poly Pomona" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/UIUC-Logo.png" alt="University of Illinois Urbana-Champaign" width="150">
+</p>
 
 This work was supported by:
-
 - **U.S. Navy Naval Engineering Education Consortium (NEEC)** — Grant **N001742310002**  
 - **Office of Naval Research (ONR)** — Summer Faculty Research Program (SFRP)  
 - **Air Force Research Laboratory (AFRL)** — Agreement **FA8650-24-2-2403**
