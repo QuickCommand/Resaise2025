@@ -94,6 +94,7 @@ Median (and 95th) latencies in milliseconds:
 - Latency measured at **(1) NLP**, **(2) translation**, and **(3) end-to-end**.  
 - CPU-only inference reported; dispatch and actuation measured in the loop.
 
+---
 
 ## 8) Repository Structure
 
@@ -125,6 +126,8 @@ Resaise2025/
 └─ reports/
    ├─ latency_summary.json         # mirrors paper’s table
    └─ system_info_local.json       # produced by dump_system_info.py
+
+---
 
 ## 9) Models Evaluated
 
@@ -164,5 +167,5 @@ Resaise2025/
 * drone_tinybert_local
 * drone_albert_local
 * drone_electra-small_local
-
+---
 
