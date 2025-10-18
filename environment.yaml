@@ -1,1 +1,20 @@
+name: quickcommand
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch=2.0
+  - torchvision
+  - torchaudio
+  - pip
+  - pip:
+      - transformers==4.42.0
+      - datasets
+      - accelerate
+      - sentencepiece
+      - pymavlink
+      - pyserial
+      - tqdm
+      - numpy
 
