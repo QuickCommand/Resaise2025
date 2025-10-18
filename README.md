@@ -205,6 +205,4 @@ If you use or reference **QuickCommand**, please cite:
   booktitle = {ReSAISE 2025 Workshop on Reliable and Secure AI for Software Engineering},
   year      = {2025}
 }
----
-
-
+```
