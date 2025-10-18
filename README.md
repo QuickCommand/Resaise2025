@@ -211,3 +211,14 @@ If you use or reference **QuickCommand**, please cite:
 
 Released under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
+---
+
+
+## 15) Contact
+
+| Name | Affiliation | Email |
+|------|-------------|-------|
+| **Dr. Mohamed El-Hadedy (Aly)** | Dept. of ECE, Cal Poly Pomona (CPP) | [mealy@cpp.edu](mailto:mealy@cpp.edu) |
+
+---
+
