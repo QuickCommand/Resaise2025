@@ -1,0 +1,27 @@
+{
+  "latency_ms_median_cpu_only": {
+    "regex_only": 19,
+    "quantized_bert": 19,
+    "mobilebert": 249,
+    "distilbert": 243,
+    "albert": 257,
+    "electra_small": 222
+  },
+  "latency_ms_95p_cpu_only": {
+    "regex_only": 19,
+    "quantized_bert": 19,
+    "mobilebert": 249,
+    "distilbert": 244,
+    "albert": 258,
+    "electra_small": 224
+  },
+  "accuracy_pct": {
+    "regex_only": 100,
+    "quantized_bert": 100,
+    "mobilebert": 100,
+    "distilbert": 100,
+    "albert": 100,
+    "electra_small": 0
+  },
+  "notes": "E2E = NLP + MAVLink translation + Pixhawk actuation; CPU-only inference."
+}
